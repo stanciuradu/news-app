@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: grey;
+}
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+  }
+}
+.navbar .button button {
+  margin-right: 2rem;
+  border-radius: 90%;
+  height: 1rem;
+  background-color: black;
+  cursor: pointer;
+}
+.navbar h1 {
+  color: burlywood;
+  color: white;
+}
+.navbar .button .current-page:hover {
+  background-color: red;
+}
