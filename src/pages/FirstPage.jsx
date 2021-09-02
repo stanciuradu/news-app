@@ -9,7 +9,7 @@ export class FirstPage extends Component {
       news: [],
     };
   }
-//   functia de redirectionare catre pagina a doua din aplicatie
+  //   functia de redirectionare catre pagina a doua din aplicatie
   handleredirectPage() {
     window.location.replace("/second_page");
   }
