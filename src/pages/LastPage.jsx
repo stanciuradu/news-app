@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import news from "../utils/news.json";
-import NewsListLast from "../components/NewsListLast";
+import NewsListLast from "../components/NewsList/NewsListLast";
 export class LastPage extends Component {
   constructor() {
     super();

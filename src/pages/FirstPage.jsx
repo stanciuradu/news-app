@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import news from "../utils/news.json";
-import NewsList from "../components/NewsListFirst";
+import NewsList from "../components/NewsList/NewsListFirst";
 
 export class FirstPage extends Component {
   constructor() {

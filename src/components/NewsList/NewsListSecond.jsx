@@ -1,5 +1,5 @@
 import React from "react";
-import NewsItem from "./NewsItem";
+import NewsItem from "../NewsItem";
 
 function NewsListSecond(props) {
   const { news } = props;

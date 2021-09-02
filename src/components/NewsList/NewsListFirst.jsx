@@ -1,12 +1,12 @@
 import React from "react";
-import NewsItem from "../components/NewsItem";
+import NewsItem from "../NewsItem";
 
-function NewsListLast(props) {
+function NewsList(props) {
   const { news } = props;
   return (
     <div>
       {news
-        .filter((news, id) => id > 9 && id < 15)
+        .filter((news, id) => id < 5)
         .map((news, index) => {
           return (
             <NewsItem title={news.title} details={news.details} key={index} />
@@ -16,4 +16,4 @@ function NewsListLast(props) {
   );
 }
 
-export default NewsListLast;
+export default NewsList;
