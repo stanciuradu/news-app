@@ -1,70 +1,61 @@
 [
-    {   "id":1,
-        "title": "First news", 
-        "details": "This is a detailed description" 
-    },
-    {   "id":2,
-        "title": "Second news",
-        "details": "Detailed text for this item" 
-    },
-    {   "id":3,
-        "title": "Third news", 
-        "details": "This is a detailed description" 
-    },
-    {   "id":4,
-        "title": "Fourth news", 
-        "details": "Detailed text for this item" 
-    },
-    {   "id":5,
-        "title": "Fifth news", 
-        "details": "This is a detailed description" 
-    },
-    {   "id":6,
-        "title": "Sixth news", 
-        "details": "Detailed text for this item"
-    },
-    {   "id":7,
-        "title": "Seventh news", 
-        "details": "This is a detailed description"
-    },
-    {   "id":8,
-        "title": "Eighth news", 
-        "details": "Detailed text for this item" 
-    },
-    {   "id":9,
-        "title": "Nineth news", 
-        "details": "This is a detailed description" 
-    },
-    { 
-        "id":10,
-        "title": "Tenth news", 
-        "details": "Detailed text for this item" 
-    },
-    { 
-        "id":11,
-        "title": "News eleven", 
-        "details": "This is a detailed description" 
-    },
-    { 
-        "id":12,
-        "title": "News twelve", 
-        "details": "Detailed text for this item" 
-    },
-    { 
-        "id":13,
-        "title": "News thirteen", 
-        "details": "This is a detailed description" 
-    },
-    { 
-        "id":14,
-        "title": "News fourteen", 
-        "details": "Detailed text for this item" 
-    },
-    { 
-        "id":15,
-        "title": "News fifteen", 
-        "details": "This is a detailed description" 
-    }
+  {
+    "id": 1,
+    "title": "First news",
+    "details": "This is a detailed description"
+  },
+  { "id": 2, "title": "Second news", "details": "Detailed text for this item" },
+  {
+    "id": 3,
+    "title": "Third news",
+    "details": "This is a detailed description"
+  },
+  { "id": 4, "title": "Fourth news", "details": "Detailed text for this item" },
+  {
+    "id": 5,
+    "title": "Fifth news",
+    "details": "This is a detailed description"
+  },
+  { "id": 6, "title": "Sixth news", "details": "Detailed text for this item" },
+  {
+    "id": 7,
+    "title": "Seventh news",
+    "details": "This is a detailed description"
+  },
+  { "id": 8, "title": "Eighth news", "details": "Detailed text for this item" },
+  {
+    "id": 9,
+    "title": "Nineth news",
+    "details": "This is a detailed description"
+  },
+  {
+    "id": 10,
+    "title": "Tenth news",
+    "details": "Detailed text for this item"
+  },
+  {
+    "id": 11,
+    "title": "News eleven",
+    "details": "This is a detailed description"
+  },
+  {
+    "id": 12,
+    "title": "News twelve",
+    "details": "Detailed text for this item"
+  },
+  {
+    "id": 13,
+    "title": "News thirteen",
+    "details": "This is a detailed description"
+  },
+  {
+    "id": 14,
+    "title": "News fourteen",
+    "details": "Detailed text for this item"
+  },
+  {
+    "id": 15,
+    "title": "News fifteen",
+    "details": "This is a detailed description"
+  }
 ]
-    
-    
