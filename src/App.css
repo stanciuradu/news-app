@@ -3,5 +3,8 @@
   border: 2px solid black;
   font-family: "Barlow Condensed", sans-serif;
   width: 450px;
-  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

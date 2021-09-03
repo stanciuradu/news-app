@@ -9,12 +9,17 @@
     flex-direction: column;
   }
 }
-.navbar .button button {
+.navbar .button .current-page {
   margin-right: 2rem;
   border-radius: 90%;
   height: 1rem;
   background-color: black;
   cursor: pointer;
+}
+@media (max-width: 768px) {
+  .navbar .button .current-page{
+    margin-bottom: 1rem;
+  }
 }
 .navbar h1 {
   color: burlywood;
